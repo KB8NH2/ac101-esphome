@@ -1,9 +1,0 @@
-{
-  "domain": "ac101",
-  "name": "AC101 Audio Codec",
-  "version": "1.0.0",
-  "documentation": "https://github.com/KB8NH2/ac101-esphome",
-  "requirements": [],
-  "dependencies": [],
-  "codeowners": ["@KB8NH2"]
-}
